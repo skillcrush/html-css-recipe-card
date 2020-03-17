@@ -103,6 +103,8 @@ main {
 .recipe .time img {
 	margin-right: 5px;
 	vertical-align: middle;
+	width: 15px;
+	height: auto;
 }
 
 .recipe .time strong {

@@ -29,7 +29,7 @@ main {
 	width: 1000px;
 	margin: 0 auto;
 }
- 
+
 .card {
 	margin: 25px 0;
 	overflow: auto;
@@ -51,14 +51,14 @@ main {
 }
 
 .card#cookies .image {
-	 background-image: url("../img/gluten-free-sugar-cookies.jpg"); 
-	 background-size: cover;
+	background-image: url("../img/gluten-free-sugar-cookies.jpg");
+	background-size: cover;
 }
 
 .card#pesto .image {
 	background-image: url("../img/nut-free-pesto.jpg");
 	background-size: cover;
-} 
+}
 
 .card#salad .image {
 	background-image: url("../img/watermelon-salad.jpg");
@@ -94,7 +94,7 @@ main {
 	line-height: 32px;
 }
 
- .recipe .time div.cook {
+.recipe .time div.cook {
 	border-width: 0 1px;
 	border-style: solid;
 	border-color: #3B3B3B;
@@ -109,7 +109,7 @@ main {
 
 .recipe .time strong {
 	font-family: 'Montserrat', sans-serif;
-} 
+}
 
 
 .recipe .columns {
@@ -125,9 +125,9 @@ main {
 .recipe .directions {
 	float: left;
 	width: 240px;
-} 
+}
 
- .recipe h3 {
+.recipe h3 {
 	padding: 6px;
 	border-width: 1px 0;
 	border-style: solid;
@@ -137,7 +137,7 @@ main {
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #F16059;
-} 
+}
 
 .recipe .ingredients ul {
 	padding-left: 15px;
@@ -148,4 +148,4 @@ main {
 .recipe .directions ol {
 	padding-left: 15px;
 	line-height: 24px;
-} 
+}

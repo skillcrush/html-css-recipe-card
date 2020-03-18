@@ -107,6 +107,10 @@ main {
 	height: auto;
 }
 
+.recipe .time-details {
+	display: inline;
+}
+
 .recipe .time strong {
 	font-family: 'Montserrat', sans-serif;
 }

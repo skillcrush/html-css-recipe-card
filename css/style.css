@@ -23,7 +23,7 @@ h1 {
 	color: #F16059;
 }
 
-h1 img {
+header img {
 	margin-right: 16px;
 }
 
@@ -52,17 +52,17 @@ main {
 	box-sizing: border-box;
 }
 
-.card#cookies .image {
+#cookies .image {
 	background-image: url("../img/gluten-free-sugar-cookies.jpg");
 	background-size: cover;
 }
 
-.card#pesto .image {
+#pesto .image {
 	background-image: url("../img/nut-free-pesto.jpg");
 	background-size: cover;
 }
 
-.card#salad .image {
+#salad .image {
 	background-image: url("../img/watermelon-salad.jpg");
 	background-size: cover;
 }

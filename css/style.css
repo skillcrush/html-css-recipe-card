@@ -79,7 +79,7 @@ main {
 }
 
 
-.recipe .time {
+.time {
 	margin-bottom: 20px;
 	border-width: 1px;
 	border-style: solid;
@@ -87,7 +87,7 @@ main {
 	overflow: auto;
 }
 
-.recipe .time div {
+.time div {
 	float: left;
 	padding-left: 6px;
 	width: 33.3333%;
@@ -96,39 +96,38 @@ main {
 	line-height: 32px;
 }
 
-.recipe .time div.cook {
+.time div.cook {
 	border-width: 0 1px;
 	border-style: solid;
 	border-color: #3B3B3B;
 }
 
-.recipe .time img {
+.time img {
 	margin-right: 5px;
 	vertical-align: middle;
 	width: 15px;
 	height: auto;
 }
 
-.recipe .time-details {
+.time-details {
 	display: inline;
 }
 
-.recipe .time strong {
+.time strong {
 	font-family: 'Montserrat', sans-serif;
 }
 
-
-.recipe .columns {
+.columns {
 	overflow: auto;
 }
 
-.recipe .ingredients {
+.ingredients {
 	float: left;
 	margin-right: 15px;
 	width: 205px;
 }
 
-.recipe .directions {
+.directions {
 	float: left;
 	width: 240px;
 }
@@ -145,13 +144,13 @@ main {
 	color: #F16059;
 }
 
-.recipe .ingredients ul {
+.ingredients ul {
 	padding-left: 15px;
 	line-height: 24px;
 	list-style-type: square;
 }
 
-.recipe .directions ol {
+.directions ol {
 	padding-left: 15px;
 	line-height: 24px;
 }

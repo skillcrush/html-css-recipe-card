@@ -1,10 +1,10 @@
 # Recipe Card Project Style Guide
 
 ## Colors
-- Light blue (#DAF7F6) 
-- Red (#F16059) 
-- White (#FFFFFF) 
-- Dark brown (#3B3B3B) 
+- Light blue (#DAF7F6)
+- Red (#F16059)
+- White (#FFFFFF)
+- Dark gray (#3B3B3B) 
 
 
 ## Images

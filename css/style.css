@@ -67,7 +67,6 @@ main {
 	background-size: cover;
 }
 
-
 .recipe h2 {
 	margin-top: 0;
 	font-family: 'Montserrat', sans-serif;
@@ -115,42 +114,4 @@ main {
 
 .time strong {
 	font-family: 'Montserrat', sans-serif;
-}
-
-.columns {
-	overflow: auto;
-}
-
-.ingredients {
-	float: left;
-	margin-right: 15px;
-	width: 205px;
-}
-
-.directions {
-	float: left;
-	width: 240px;
-}
-
-.recipe h3 {
-	padding: 6px;
-	border-width: 1px 0;
-	border-style: solid;
-	border-color: #3B3B3B;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 12px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #F16059;
-}
-
-.ingredients ul {
-	padding-left: 15px;
-	line-height: 24px;
-	list-style-type: square;
-}
-
-.directions ol {
-	padding-left: 15px;
-	line-height: 24px;
 }

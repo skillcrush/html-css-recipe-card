@@ -15,7 +15,6 @@ h1 {
 	display: inline-block;
 	padding: 40px 0;
 	margin: 0;
-	text-align: center;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 48px;
 	font-weight: bold;
@@ -37,7 +36,7 @@ main {
 	overflow: auto;
 }
 
-.card .image {
+.image {
 	float: left;
 	width: 500px;
 	height: 550px;
@@ -77,7 +76,6 @@ main {
 	color: #F16059;
 }
 
-
 .time {
 	margin-bottom: 20px;
 	border-width: 1px;
@@ -92,10 +90,9 @@ main {
 	width: 33.3333%;
 	box-sizing: border-box;
 	text-transform: uppercase;
-	line-height: 32px;
 }
 
-.time div.cook {
+.time .cook {
 	border-width: 0 1px;
 	border-style: solid;
 	border-color: #3B3B3B;
@@ -109,7 +106,7 @@ main {
 }
 
 .time-details {
-	display: inline;
+	display: inline-block;
 }
 
 .time strong {

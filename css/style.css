@@ -127,11 +127,10 @@ main {
 
 .recipe h3 {
 	padding: 6px;
-	border-width: 1px 0;
-	border-style: solid;
-	border-color: #3B3B3B;
+	border-top: 1px solid #3B3B3B;
+	border-bottom: 1px solid #3B3B3B;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 12px;
+	font-size: 20px;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #F16059;

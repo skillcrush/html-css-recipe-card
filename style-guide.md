@@ -13,4 +13,4 @@ Images are in the 'img' folder
 ## Fonts
 - 'Open Sans' -> Main font
 - 'Montserrat' -> Accent font (headers)
-- Sizes: small = 12px | medium = 24px | large = 48px
+- Sizes: small = 12px | medium = 24px | medium-large = 20px | large = 48px

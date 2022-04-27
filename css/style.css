@@ -52,17 +52,17 @@ main {
 }
 
 #cookies .image {
-	background-image: url("../img/gluten-free-sugar-cookies.jpg");
+	background: url("../img/gluten-free-sugar-cookies.jpg");
 	background-size: cover;
 }
 
 #pesto .image {
-	background-image: url("../img/nut-free-pesto.jpg");
+	background: url("../img/nut-free-pesto.jpg");
 	background-size: cover;
 }
 
 #salad .image {
-	background-image: url("../img/watermelon-salad.jpg");
+	background: url("../img/watermelon-salad.jpg");
 	background-size: cover;
 }
 

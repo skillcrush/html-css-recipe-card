@@ -136,7 +136,7 @@ main {
 .ingredients ul {
 	padding-left: 15px;
 	line-height: 24px;
-	list-style-type: square;
+	list-style: square;
 }
 
 .directions ol {

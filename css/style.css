@@ -1,11 +1,13 @@
+/****** Global Styles ******/
 body {
 	background: #DAF7F6;
+	color: #3B3B3B;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	line-height: 16px;
-	color: #3B3B3B;
 }
 
+/****** Header Styles ******/
 header {
 	background: #FFFFFF;
 	text-align: center;
@@ -17,14 +19,15 @@ h1 {
 	margin: 0;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 48px;
-	text-transform: uppercase;
 	color: #F16059;
+	text-transform: uppercase;
 }
 
 header img {
 	margin-right: 16px;
 }
 
+/****** Main Styles ******/
 main {
 	width: 1000px;
 	margin: 0 auto;
